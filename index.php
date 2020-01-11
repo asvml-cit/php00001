@@ -9,7 +9,7 @@
 </head>
 <body>
     <?php
-        print "Hello World"
+        print "Hello World, updated for auto-deploy"
     ?>
 </body>
 </html>
